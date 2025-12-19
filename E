@@ -1,7 +1,7 @@
 --// CONFIG
 local WAIT_TIME = 2
 local MESH_ID = "rbxassetid://129768917989779"
-local SCRIPT_URL = ""
+local SCRIPT_URL = "https://raw.githubusercontent.com/neonxhubofc-hash/Tem-nada-aq-nao/refs/heads/main/E"
 
 --// SERVIÇOS
 local Players = game:GetService("Players")
